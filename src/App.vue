@@ -7,7 +7,7 @@ import HelloWorld from './components/HelloWorld.vue'
 <template>
 sdfsdf
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Hello Sirawit is here!" />
+  <HelloWorld msg="Hello Ajarn!" />
 </template>
 
 <style>
